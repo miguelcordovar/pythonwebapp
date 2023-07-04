@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/49347dd5-12c0-4453-80ac-993e8bf53b23/resourceGroups/rg-miguelcordova/providers/Microsoft.Web/sites/mcrpythonwebapp",
+    "appService.deploySubpath": "."
+}
